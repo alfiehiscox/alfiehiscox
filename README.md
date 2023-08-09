@@ -8,7 +8,7 @@
 - 💬 Let's talk about **NodeJS, Mathematics or anything back-end**
 
 - 📫 How to reach me **alfie.hiscox@gmail.com**
-- 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in//alfie-h" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="/alfie-h" height="30" width="40" /></a>
