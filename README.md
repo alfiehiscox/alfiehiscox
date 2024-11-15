@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on large supply chain systems at [e2open](https://www.e2open.com/).
 
-- 🌱 I’m excited to be programming into **Go, Zig and Rust** and learning about **Game Engine Architectures!**
+- 🌱 I’m excited to be programming into **Go, Zig, Odin and Rust** and learning about **Game Engine Architectures!**
 
-- 💬 Let's talk about **Systems Programming [Rust + Zig], Mathematics or anything back-end.**
+- 💬 Let's talk about **Systems Programming [Rust + Zig], Game Dev [Odin], Mathematics or anything back-end.**
 
 - 📫 How to reach me **alfie.hiscox@gmail.com**
 
